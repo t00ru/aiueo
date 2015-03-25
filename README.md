@@ -1,4 +1,2 @@
 # aiueo
-# aiueo
-# aiueo
-# aiueo
+
